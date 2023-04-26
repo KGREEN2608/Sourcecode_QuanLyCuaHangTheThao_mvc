@@ -1,0 +1,243 @@
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\appsettings.json
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.exe
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.deps.json
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.runtimeconfig.json
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.pdb
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\DataAccess.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.AssemblyReference.cache
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmLogin.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMain.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMembers.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderProduct.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrders.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmProducts.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmReport.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmUser.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.GenerateResource.cache
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.AssemblyInfoInputs.cache
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.AssemblyInfo.cs
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.CoreCompileInputs.cache
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.CopyComplete
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\refint\SportShopping.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.pdb
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.genruntimeconfig.cache
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\ref\SportShopping.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.Properties.Resources.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMemberDetails.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmProductDetails.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmCustomer.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmCustomerDetails.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderDetails.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderPayment.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMomo.resources
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\PdfSharp.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+D:\Software\Code\C#\Project C# Coding\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.exe
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.deps.json
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.runtimeconfig.json
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\SportShopping.pdb
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmCustomer.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmCustomerDetails.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmLogin.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMain.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMemberDetails.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMembers.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMomo.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderDetails.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderPayment.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderProduct.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrders.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmProductDetails.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmProducts.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmReport.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmUser.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.Properties.Resources.resources
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.CopyComplete
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\refint\SportShopping.dll
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.pdb
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\SportShopping.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Sport_Shopping\SportShopping\obj\Debug\net6.0-windows\ref\SportShopping.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\SportShopping.exe
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\SportShopping.deps.json
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\SportShopping.runtimeconfig.json
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\SportShopping.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\SportShopping.pdb
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\Admin\Desktop\N15\SportShopping\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmCustomer.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmCustomerDetails.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmLogin.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMain.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMemberDetails.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMembers.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmMomo.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderDetails.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderPayment.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrderProduct.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmOrders.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmProductDetails.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmProducts.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmReport.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.frmUser.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.Properties.Resources.resources
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.AssemblyInfo.cs
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.csproj.CopyComplete
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.dll
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\refint\SportShopping.dll
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.pdb
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\SportShopping.genruntimeconfig.cache
+C:\Users\Admin\Desktop\N15\SportShopping\obj\Debug\net6.0-windows\ref\SportShopping.dll
